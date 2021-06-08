@@ -14,7 +14,7 @@ Blogger Template Style
 Name    : Freebify
 Version : v1.3.0 - Premium
 Author  : Templateify
-Paid By : https://www.mrjaz.com
+Paid By : https://www.hashsecure.tech
 ----------------------------------------------- */
 
 /*<!-- Variable definitions -->
@@ -1209,7 +1209,7 @@ h2.hero-title{font-size:27px}
 <b:template-skin><![CDATA[
 html,body#layout #outer-wrapper,body#layout .row{width:auto;padding:0}
 body#layout{position:relative;width:910px;background-color:#f9f9f9;padding:95px 5px 0;margin:0}
-body#layout:before{content:'Freebify - v1.3.0 Paid by - MrJaz.com';position:absolute;top:0;left:5px;right:5px;height:95px;font-family:Roboto,sans-serif;font-size:23px;color:#1f2024;line-height:95px;text-align:center}
+body#layout:before{content:'Freebify - v1.3.0 Paid by - hashsecure.tech';position:absolute;top:0;left:5px;right:5px;height:95px;font-family:Roboto,sans-serif;font-size:23px;color:#1f2024;line-height:95px;text-align:center}
 body#layout div.section{display:block;background-color:#f1f1f1!important;margin:0 5px 10px!important;padding:16px 16px 18px!important;border-color:#e5e5e5}
 body#layout .no-items.section{display:block}
 body#layout .section h4{font-size:14px;color:#1f2024;text-transform:uppercase;margin:0}
@@ -1244,7 +1244,7 @@ body#layout #custom-ads{display:block!important;display:flex!important}
 body#layout #custom-ads .section{width:50%}
 body#layout .footer-widgets-wrap{display:flex}
 body#layout .footer-widgets-wrap div.footer{width:100%}
-body#layout #ify-panel > h4:after{content:' - by mrjaz.com'}
+body#layout #ify-panel > h4:after{content:' - by hashsecure.tech'}
 body#layout .section > h4:after{font-size:12px}
 body#layout .footerbar .container{display:flex}
 body#layout #footer-menu,body#layout #footer-copyright{width:50%}
@@ -1264,7 +1264,7 @@ body#layout #footer2 > h4:after{content:' - Max 3 Gadgets'}
 body#layout #footer3 > h4:after{content:' - Max 3 Gadgets'}
 body#layout #footer-copyright > h4:after{content:' - Custom Credits'}
 body#layout #footer-menu > h4:after{content:' - Footer Links'}
-body#layout:after{content:'Paid by - www.mrjaz.com';display:block;font-family:Roboto,sans-serif;font-size:18px;color:#555;line-height:1;text-align:center;visibility:visible;padding:20px 0}
+body#layout:after{content:'Paid by - www.hashsecure.tech';display:block;font-family:Roboto,sans-serif;font-size:18px;color:#555;line-height:1;text-align:center;visibility:visible;padding:20px 0}
 body#layout #hidden-widgets{display:none!important}
 ]]></b:template-skin>
 </b:if>
@@ -2490,21 +2490,21 @@ var fixedMenu = true,
                     <b:widget-settings>
                       <b:widget-setting name='text-10'>Mega Menu</b:widget-setting>
                       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                      <b:widget-setting name='link-1'>https://www.mrjaz.com/</b:widget-setting>
-                      <b:widget-setting name='link-2'>https://www.mrjaz.com/</b:widget-setting>
-                      <b:widget-setting name='link-12'>https://www.mrjaz.com/</b:widget-setting>
+                      <b:widget-setting name='link-1'>www.hashsecure.tech/</b:widget-setting>
+                      <b:widget-setting name='link-2'>www.hashsecure.tech/</b:widget-setting>
+                      <b:widget-setting name='link-12'>www.hashsecure.tech/</b:widget-setting>
                       <b:widget-setting name='link-0'>/</b:widget-setting>
-                      <b:widget-setting name='link-11'>https://www.mrjaz.com/</b:widget-setting>
+                      <b:widget-setting name='link-11'>www.hashsecure.tech</b:widget-setting>
                       <b:widget-setting name='link-10'>{getMega} $label={recent} $type={msimple}</b:widget-setting>
                       <b:widget-setting name='text-9'>_RTL Version</b:widget-setting>
                       <b:widget-setting name='link-9'>?hl=ar</b:widget-setting>
                       <b:widget-setting name='text-8'>_Error Page</b:widget-setting>
-                      <b:widget-setting name='link-7'>https://www.mrjaz.com/</b:widget-setting>
+                      <b:widget-setting name='link-7'>www.hashsecure.tech/</b:widget-setting>
                       <b:widget-setting name='link-8'>/404</b:widget-setting>
-                      <b:widget-setting name='link-5'>https://www.mrjaz.com/</b:widget-setting>
-                      <b:widget-setting name='link-6'>https://www.mrjaz.com/</b:widget-setting>
-                      <b:widget-setting name='link-3'>https://www.mrjaz.com/</b:widget-setting>
-                      <b:widget-setting name='link-4'>https://www.mrjaz.com/</b:widget-setting>
+                      <b:widget-setting name='link-5'>www.hashsecure.tech/</b:widget-setting>
+                      <b:widget-setting name='link-6'>https://www.hashsecure.tech/</b:widget-setting>
+                      <b:widget-setting name='link-3'>https://www.hashsecure.tech/</b:widget-setting>
+                      <b:widget-setting name='link-4'>https://www.hashsecure.tech/</b:widget-setting>
                       <b:widget-setting name='text-1'>Features</b:widget-setting>
                       <b:widget-setting name='text-0'>Home</b:widget-setting>
                       <b:widget-setting name='text-3'>_Post Layouts</b:widget-setting>
@@ -2732,7 +2732,7 @@ var fixedMenu = true,
       <b:section class='header-ads container row-x1' id='header-ads' maxwidgets='1' name='Header ADS' showaddelement='yes'>
         <b:widget id='HTML1' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.am2z.com/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Header AD"/></a>]]></b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.hashsecure.tech/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Header AD"/></a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;ify-panel&quot;'>
@@ -3284,7 +3284,7 @@ var fixedMenu = true,
           <b:section cond='data:view.isPost' id='freebify-pro-main-before-ad' maxwidgets='1' name='Post ADS 1' showaddelement='yes'>
             <b:widget id='HTML4' locked='false' title='' type='HTML' visible='true'>
               <b:widget-settings>
-                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.am2z.com/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Post ADS 1"/></a>]]></b:widget-setting>
+                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.hashsecure.tech/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Post ADS 1"/></a>]]></b:widget-setting>
               </b:widget-settings>
               <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;ify-panel&quot;'>
@@ -3303,7 +3303,7 @@ var fixedMenu = true,
           <b:section cond='data:view.isPost' id='freebify-pro-main-after-ad' maxwidgets='1' name='Post ADS 2' showaddelement='yes'>
             <b:widget id='HTML6' locked='false' title='' type='HTML' visible='true'>
               <b:widget-settings>
-                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.mrjaz.com/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Post ADS 2"/></a>]]></b:widget-setting>
+                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.hashsecure.tech/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Post ADS 2"/></a>]]></b:widget-setting>
               </b:widget-settings>
               <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;ify-panel&quot;'>
@@ -3352,14 +3352,14 @@ var fixedMenu = true,
           <b:section class='sidebar freebify-pro-widget-ready' id='sidebar' name='Sidebar' showaddelement='yes'>
             <b:widget id='LinkList1' locked='false' title='Follow Us' type='LinkList' visible='true'>
               <b:widget-settings>
-                <b:widget-setting name='link-3'>https://www.mrjaz.com/ $ Instagram</b:widget-setting>
+                <b:widget-setting name='link-3'>https://www.hashsecure.tech/ $ Instagram</b:widget-setting>
                 <b:widget-setting name='sorting'>NONE</b:widget-setting>
                 <b:widget-setting name='text-1'>youtube</b:widget-setting>
-                <b:widget-setting name='link-1'>https://www.am2z.com/ $ YouTube</b:widget-setting>
+                <b:widget-setting name='link-1'>https://www.hashsecure.tech/ $ YouTube</b:widget-setting>
                 <b:widget-setting name='text-0'>twitter</b:widget-setting>
-                <b:widget-setting name='link-2'>https://www.mrjaz.com/ $ Facebook</b:widget-setting>
+                <b:widget-setting name='link-2'>https://www.hashsecure.tech/ $ Facebook</b:widget-setting>
                 <b:widget-setting name='text-3'>instagram</b:widget-setting>
-                <b:widget-setting name='link-0'>https://www.am2z.com/ $ Twitter</b:widget-setting>
+                <b:widget-setting name='link-0'>https://www.hashsecure.tech/ $ Twitter</b:widget-setting>
                 <b:widget-setting name='text-2'>facebook-f</b:widget-setting>
               </b:widget-settings>
               <b:includable id='main' var='this'>
@@ -3495,7 +3495,7 @@ var fixedMenu = true,
             </b:widget>
             <b:widget id='HTML2' locked='false' title='' type='HTML' visible='true'>
               <b:widget-settings>
-                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.am2z.com/"><img src="https://1.bp.blogspot.com/-TGjQKiW8Fj4/XwTtHbFJWVI/AAAAAAAACTM/YLcre4aIIv0Swn67Z922xF4fR-mMn3ZZACK4BGAYYCw/s1600/ad300.jpg" alt="Sidebar ADS"/></a>]]></b:widget-setting>
+                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.hashsecure.tech/"><img src="https://1.bp.blogspot.com/-TGjQKiW8Fj4/XwTtHbFJWVI/AAAAAAAACTM/YLcre4aIIv0Swn67Z922xF4fR-mMn3ZZACK4BGAYYCw/s1600/ad300.jpg" alt="Sidebar ADS"/></a>]]></b:widget-setting>
               </b:widget-settings>
               <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;ify-panel&quot;'>
@@ -3556,7 +3556,7 @@ var fixedMenu = true,
       <b:section class='footer-ads container row-x1' id='footer-ads' maxwidgets='1' name='Footer ADS' showaddelement='yes'>
         <b:widget id='HTML3' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.mrjaz.com/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Footer AD"/></a>]]></b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.hashsecure.tech/"><img src="https://3.bp.blogspot.com/-e2xEEjsuDG8/XwTtf9ktuHI/AAAAAAAACTg/5tZfrcgsDi0_RzY7ve_g81FCN8b0MTYHQCK4BGAYYCw/s1600/ad728.jpg" alt="Footer AD"/></a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;ify-panel&quot;'>
@@ -3583,7 +3583,7 @@ var fixedMenu = true,
         <b:section class='footer freebify-pro-widget-ready' id='footer1' maxwidgets='3' name='Footer 1' showaddelement='yes'>
           <b:widget id='Text1' locked='false' title='About Us' type='Text' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an... <a href="https://www.am2z.com/" target="_blank">more →</a>]]></b:widget-setting>
+              <b:widget-setting name='content'><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an... <a href="https://www.hashsecure.tech/" target="_blank">more →</a>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;footer-copyright&quot;'>
@@ -3598,15 +3598,15 @@ var fixedMenu = true,
           </b:widget>
           <b:widget id='LinkList2' locked='false' title='Follow Us' type='LinkList' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='link-3'>https://www.am2z.com/</b:widget-setting>
+              <b:widget-setting name='link-3'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
-              <b:widget-setting name='link-4'>https://www.mrjaz.com</b:widget-setting>
+              <b:widget-setting name='link-4'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='text-1'>twitter</b:widget-setting>
-              <b:widget-setting name='link-1'>https://www.am2z.com/</b:widget-setting>
+              <b:widget-setting name='link-1'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='text-0'>facebook-f</b:widget-setting>
-              <b:widget-setting name='link-2'>https://www.mrjaz.com/</b:widget-setting>
+              <b:widget-setting name='link-2'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='text-3'>instagram</b:widget-setting>
-              <b:widget-setting name='link-0'>https://www.am2z.com/</b:widget-setting>
+              <b:widget-setting name='link-0'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='text-2'>youtube</b:widget-setting>
               <b:widget-setting name='text-4'>rss</b:widget-setting>
             </b:widget-settings>
@@ -3753,7 +3753,7 @@ var fixedMenu = true,
         <b:section class='footer-copyright' id='footer-copyright' maxwidgets='1' name='Footer Copyright' showaddelement='yes'>
           <b:widget id='Text150' locked='true' title='' type='Text' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[Paid by - <a href="https://www.mrjaz.com/" title="www.mrjaz.com" target="_blank">MrJaz.com</a>]]></b:widget-setting>
+              <b:widget-setting name='content'><![CDATA[Paid by - <a href="https://www.hashsecure.tech/" title="https://www.hashsecure.tech/" target="_blank">Hashsecure.tech</a>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
       <b:if cond='data:widget.sectionId == &quot;footer-copyright&quot;'>
@@ -3773,9 +3773,9 @@ var fixedMenu = true,
               <b:widget-setting name='link-3'>?hl=ar</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
               <b:widget-setting name='text-1'>About</b:widget-setting>
-              <b:widget-setting name='link-1'>https://www.mrjaz.com/</b:widget-setting>
+              <b:widget-setting name='link-1'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='text-0'>Home</b:widget-setting>
-              <b:widget-setting name='link-2'>https://www.mrjaz.com/</b:widget-setting>
+              <b:widget-setting name='link-2'>https://www.hashsecure.tech/</b:widget-setting>
               <b:widget-setting name='text-3'>RTL Version</b:widget-setting>
               <b:widget-setting name='link-0'>/</b:widget-setting>
               <b:widget-setting name='text-2'>Contact Us</b:widget-setting>
